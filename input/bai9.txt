@@ -1,0 +1,3 @@
+begin,bắt đầu 
+end,kết thúc 
+love,tình yêu
